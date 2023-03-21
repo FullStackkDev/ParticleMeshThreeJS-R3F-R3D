@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 # 3D-Partical-Mesh-3JS-R3F-R3D
 
-A product configurator made using ThreeJS, React-Three-Fiber and React-Three-Drei
+A 3D particle mesh with a logo in the middle made using Blender, Adobe Substance, ThreeJS, React-Three-Fiber and React-Three-Drei
 
 ## To install dependencies
 
